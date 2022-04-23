@@ -8,12 +8,16 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- [Homepage](https://drive.google.com/file/d/1pR82luIAmOkwW_tQap9OIFYkVPmUlbac/view?usp=sharing)
+- [Sign Up](https://drive.google.com/file/d/1krucJoHpJKqgJeIrkTaoiMTp5cE4Nx5d/view?usp=sharing)
+- [Log In](https://drive.google.com/file/d/1HK5Nq_VRj3-svZ8fnvdrQAGss43GmU-G/view?usp=sharing)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello](https://trello.com/b/lak5fpZP/teamskillshare)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Personal Repo](https://github.com/curriated/liftoff-assignments)
+
+[Team Repo](https://github.com/April-2022-LC-LiftOff/TeamSkillShare)
